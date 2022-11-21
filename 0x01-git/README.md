@@ -1,1 +1,1 @@
-My second commit
+Last step of the git assignment
